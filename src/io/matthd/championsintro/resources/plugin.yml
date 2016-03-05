@@ -1,0 +1,4 @@
+name: ChampionsIntro
+main: io.matthd.championsintro.ChampionsIntro
+version: 1.0
+description: Intro plugin
